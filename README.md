@@ -1,0 +1,3 @@
+This repository contains a simple Hack program that demonstrates basic arithmetic calculations using functions. The program demonstrates the use of functions and their potential for unexpected behavior if the functions are not correctly implemented. The bugSolution.hack file provides a corrected version of the program. 
+
+The program showcases the importance of testing and verifying the correctness of functions to avoid unexpected behavior. It also demonstrates how easy it is to create subtle bugs even in seemingly simple code.
